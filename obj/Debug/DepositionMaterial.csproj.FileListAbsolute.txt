@@ -1,0 +1,9 @@
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\bin\Debug\DepositionMaterial.exe.config
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\bin\Debug\DepositionMaterial.exe
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\bin\Debug\DepositionMaterial.pdb
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\obj\Debug\DepositionMaterial.csprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\obj\Debug\DepositionMaterial.Form1.resources
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\obj\Debug\DepositionMaterial.Properties.Resources.resources
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\obj\Debug\DepositionMaterial.csproj.GenerateResource.Cache
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\obj\Debug\DepositionMaterial.exe
+c:\users\sean\documents\visual studio 2015\Projects\DepositionMaterial\DepositionMaterial\obj\Debug\DepositionMaterial.pdb
